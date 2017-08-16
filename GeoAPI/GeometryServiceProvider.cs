@@ -58,7 +58,7 @@ namespace GeoAPI
             catch
             {
                 return new Type[0];
-            }            
+            }
         }
 
         private static IGeometryServices ReflectInstance()
